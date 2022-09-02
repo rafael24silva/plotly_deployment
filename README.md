@@ -1,1 +1,2 @@
 # plotly_deployment
+The purpose of this analysis is to create an interactive dashboard that summarizes the data from the samples gathered. We have added a gauge, a bar chart, and a bubble chart. The bar chart has data on the top ten bacteria cultures found in the belly button. The gauge numbers how many times a volunteer washes their belly button. The bubble chart displays the amount of bacteria cultures per sample.
